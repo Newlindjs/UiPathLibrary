@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dl9n7EHJkkCKaVfOoqZVwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="1884, 302, 25, 25" CvType="ArrowButton" DesignTimeRectangle="1884, 302, 25, 25" DesignTimeScaleFactor="1.25" ElementType="ArrowButton" FriendlyName="'chrome.exe Rpa Challenge'" Guid="c30dc19e-991c-4328-83b2-98b9b439f045" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bd5c1fc067d71d399d8e731120e95106.png" xmlns="">0Oh7u_h_pM0u8Qck1VkS9nw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
